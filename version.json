@@ -1,6 +1,6 @@
 {
-  "versao_atual": "1.0.0",
-  "url_download": "https://github.com/MaProgammer/versionammento-apps/releases/download/v.1.0.0/Central.de.Ferramentas.exe",
-  "novidades": "Correção de bugs na tela de login e melhoria de performance.",
+  "versao_atual": "1.0.1",
+  "url_download": "https://github.com/MaProgammer/versionammento-apps/releases/download/v1.0.1/Central.de.Ferramentas.v101.exe",
+  "novidades": "Adição da Ferramenta para datar Kml's e ajuste em algumas melhorias na interface.",
   "obrigatorio": false
 }
